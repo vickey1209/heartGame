@@ -1,0 +1,13 @@
+export = Object.freeze({
+  PLAYING: 'PLAYING',
+  LEFT: 'LEFT',
+  LOST: 'LOST',
+  WON: 'WON',
+  TIE : 'TIE',
+  FINISH: 'finish',
+  ROUND_STARTED: 'ROUND_STARTED',
+  ROUND_TIMER_STARTED: 'ROUND_TIMER_STARTED',
+  TIMEOUT: 'TIMEOUT',
+  DISCONNECT: 'disconnect',
+  DISCONNECTED : 'DISCONNECTED'
+});
